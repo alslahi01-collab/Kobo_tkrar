@@ -1,6 +1,6 @@
 {
-  "name": "KoBo AutoFill",
-  "description": "تطبيق لعرض استمارات كابو وتعبئة الخيارات والاجابات الافتراضية او المتكررة محلياً وتلقائياً.",
+  "name": "المحلل الإحصائي الذكي",
+  "description": "نظام تحليل بيانات إحصائي متكامل ومرن للمسوح الميدانية ودراسة العلاقات وتصدير التقارير متعددة الصفحات.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
